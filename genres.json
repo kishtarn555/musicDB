@@ -1,27 +1,27 @@
 [
   {
-    path:"rock",
-    name:"Rock 'n' Roll"
+    "path":"rock",
+    "name":"Rock 'n' Roll"
   },
   {
-    path:"japan",
-    name:"From Japan"
+    "path":"japan",
+    "name":"From Japan"
   },
   {
-    path:"classical",
-    name:"Classical"
+    "path:"classical",
+    "name":"Classical"
   },
   {
-    path:"jazz",
-    name:"Jazz"
+    "path:"jazz",
+    "name":"Jazz"
   },
   {
-    path:"electro",
-    name:"Electro Music"
+    "path:"electro",
+    "name":"Electro Music"
   },
   {
-    path:"rap",
-    name:"Rap"
+    "path":"rap",
+    "name":"Rap"
   },
 
 ]

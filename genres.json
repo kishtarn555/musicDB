@@ -1,27 +1,27 @@
 [
   {
     "path":"rock.json",
-    "name":"Rock 'n' Roll"
+    "title":"Rock 'n' Roll"
   },
   {
     "path":"japan.json",
-    "name":"From Japan"
+    "title":"From Japan"
   },
   {
     "path":"classical.json",
-    "name":"Classical"
+    "title":"Classical"
   },
   {
     "path":"jazz.json",
-    "name":"Jazz"
+    "title":"Jazz"
   },
   {
     "path":"electro.json",
-    "name":"Electro Music"
+    "title":"Electro Music"
   },
   {
     "path":"rap.json",
-    "name":"Rap"
+    "title":"Rap"
   },
 
 ]

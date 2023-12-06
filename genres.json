@@ -8,15 +8,15 @@
     "name":"From Japan"
   },
   {
-    "path":classical",
+    "path":"classical",
     "name":"Classical"
   },
   {
-    "path":jazz",
+    "path":"jazz",
     "name":"Jazz"
   },
   {
-    "path":electro",
+    "path":"electro",
     "name":"Electro Music"
   },
   {

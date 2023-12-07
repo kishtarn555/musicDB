@@ -1,26 +1,32 @@
 [
   {
     "path":"rock.json",
-    "title":"Rock 'n' Roll"
+    "title":"Rock 'n' Roll",
+    "cover_img":"https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc0NDkxNzA3MjAxODg5NjQw/100-best-rock-songs-of-the-90s.webp"
   },
   {
     "path":"japan.json",
-    "title":"From Japan"
+    "title":"From Japan",
+    "cover_img":"https://i.scdn.co/image/ab67706c0000bebb2994188de7ffb2a3d53edeea"
   },
   {
     "path":"classical.json",
-    "title":"Classical"
+    "title":"Classical",
+    "cover_img":"https://mulerasfireplace.com/wp-content/uploads/2016/03/Classical-music-instruments.jpg"
   },
   {
     "path":"jazz.json",
-    "title":"Jazz"
+    "title":"Jazz",
+    "cover_img":"https://www.udiscovermusic.com/wp-content/uploads/2019/04/best-jazz-songs.jpg"
   },
   {
     "path":"electro.json",
-    "title":"Electro Music"
+    "title":"Electro Music",
+    "cover_img":"https://wallpapercave.com/wp/QR0YrYw.jpg"
   },
   {
     "path":"indie.json",
-    "title":"Indie"
+    "title":"Indie",
+    "cover_img":"https://promusicianhub.com/wp-content/uploads/2021/04/what-is-indie-music.jpg"
   }
 ]

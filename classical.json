@@ -1,0 +1,92 @@
+[
+    {
+        "id":"classical_1",
+        "title":"Paganini: 24 Caprices, Op. 1: No. 24 in A Minor",
+        "artist":"Niccolò Paganini",
+        "album": "Paganini: 24 Caprices",
+        "length":"04:28",
+        "release_date": "2000-02-01",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e02d612003e37c4cdc82f39eda7"
+    },
+    {
+        "id":"classical_2",
+        "title":"Beethoven: Symphony No. 9 in D Minor, Op. 125 \"Choral\"",
+        "artist":"Ludwig van Beethoven",
+        "album": "Beethoven: Symphony No. 9",
+        "length":"13:42",
+        "release_date": "1991-06-01",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e027dbc64cc8d05967cc583e750"
+    },
+    {
+        "id":"classical_3",
+        "title":"Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa",
+        "artist":"Wolfgang Amadeus Mozart",
+        "album": "Mozart: Requiem",
+        "length":"03:19",
+        "release_date": "1995-12-31",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e0212ca44459e62f916ac40e6f2"
+    },
+    {
+        "id":"classical_4",
+        "title":"Tchaikovsky: Swan Lake, Op. 20",
+        "artist":"Pyotr Ilyich Tchaikovsky",
+        "album": "Tchaikovsky: Swan Lake",
+        "length":"02:46",
+        "release_date": "1976-06-01",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e021d9c6602aa95abd8c5b146da"
+    },
+    {
+        "id":"classical_5",
+        "title":"Chopin: Nocturne in E-Flat Major, Op. 9, No. 2",
+        "artist":"Frédéric Chopin",
+        "album": "Chopin: Nocturnes",
+        "length":"04:29",
+        "release_date": "2019-12-13",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e025be408a6ff6df3c690019a59"
+    },
+    {
+        "id":"classical_6",
+        "title":"Bach: Brandenburg Concerto No. 3 in G Major, BWV 1048",
+        "artist":"Johann Sebastian Bach",
+        "album": "Bach: Brandenburg Concertos",
+        "length":"03:09",
+        "release_date": "2019-03-10",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e026647ba531928e629171cdeca"
+    },
+    {
+        "id":"classical_7",
+        "title":"Vivaldi: The Four Seasons - Winter",
+        "artist":"Antonio Vivaldi",
+        "album": "Vivaldi: The Four Seasons",
+        "length":"03:35",
+        "release_date": "1994-07-01",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e02b9d4ed70ea90d00612a3f3a7"
+    },
+    {
+        "id":"classical_8",
+        "title":"Debussy: Clair de Lune",
+        "artist":"Claude Debussy",
+        "album": "Debussy: Greatest Hits",
+        "length":"05:01",
+        "release_date": "1994-08-09",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e02c789bcea7942e7324f18c7bb"
+    },
+    {
+        "id":"classical_9",
+        "title":"Handel: Water Music, Suite No. 1 in F Major, HWV 348",
+        "artist":"George Frideric Handel",
+        "album": "Handel: Water Music",
+        "length":"10:15",
+        "release_date": "2016-02'05",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e020467d27cbc2ac9ea30779a5d"
+    },
+    {
+        "id":"classical_10",
+        "title":"Strauss: Also sprach Zarathustra, Op. 30",
+        "artist":"Richard Strauss",
+        "album": "Strauss: Also sprach Zarathustra",
+        "length":"33:28",
+        "release_date": "195-01-01",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e02598b402e5412d8ae3cbc516a"
+    }
+]

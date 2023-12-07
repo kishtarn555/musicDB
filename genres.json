@@ -20,8 +20,7 @@
     "title":"Electro Music"
   },
   {
-    "path":"rap.json",
-    "title":"Rap"
-  },
-
+    "path":"indie.json",
+    "title":"Indie"
+  }
 ]

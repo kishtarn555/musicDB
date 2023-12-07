@@ -1,0 +1,93 @@
+[
+    {
+      "id": "japan_1",
+      "title": "真夜中のドア / Stay With Me",
+      "artist": "Miki Matsubara",
+      "album": "Miki Matsubara Best Collection",
+      "length": "5:12",
+      "release_date": "2008-07-16",
+      "cover_img": "https://i.scdn.co/image/ab67616d00001e0281052badd62d5e14c3377786"
+    },
+    {
+      "id": "japan_2",
+      "title": "紅蓮華 / Gurenge",
+      "artist": "LiSA",
+      "album": "紅蓮華",
+      "release_date": "2019-07-03",
+      "length": "3:58",
+      "cover_img": "https://i.scdn.co/image/ab67616d00001e02cb0123798794c829a32c9a1d"
+    },
+    {
+        "id": "japan_3",
+        "title": "Shinunoga E-Wa",
+        "artist": "Fujii Kaze",
+        "album": "HELP EVER HURT NEVER",
+        "release_date": "2020-05-20",
+        "length": "3:05",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e0222805a1b17e41ae357bd98bc"
+    },
+    {
+        "id":"japan_4",
+        "title":"NIGHT DANCER",
+        "artist":"imase",
+        "album": "NIGHT DANCER",
+        "length":"3:30",
+        "release_date": "2022-08-19",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e02e2a3788f1a9dea9028099d4e"
+    },
+    {
+        "id":"japan_5",
+        "title":"Overdose",
+        "artist":"natori",
+        "album": "Overdose",
+        "length":"03:17",
+        "release_date": "2022-09-07",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e02d29582617459e5bb81bd90a6"
+    },
+    {
+        "id":"japan_6",
+        "title":"Don't say \"lazy\"",
+        "artist":"Shoko Nakagawa",
+        "album": "しょこたん☆かばー4-2〜しょこ☆ロック篇〜",
+        "length":"04:21",
+        "release_date": "2011-10-12",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e021d8795d8a47eef908be62f4b"
+    },
+    {
+        "id":"japan_7",
+        "title":"",
+        "artist":"",
+        "album": "",
+        "length":"",
+        "release_date": "",
+        "cover_img":""
+    },
+    {
+        "id":"japan_8",
+        "title":"",
+        "artist":"",
+        "album": "",
+        "length":"",
+        "release_date": "",
+        "cover_img":""
+    },
+    {
+        "id":"japan_9",
+        "title":"",
+        "artist":"",
+        "album": "",
+        "length":"",
+        "release_date": "",
+        "cover_img":""
+    },
+    {
+        "id":"japan_10",
+        "title":"",
+        "artist":"",
+        "album": "",
+        "length":"",
+        "release_date": "",
+        "cover_img":""
+    }
+]
+ 

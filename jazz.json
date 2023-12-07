@@ -6,16 +6,16 @@
         "album": "Time Out",
         "length": "05:24",
         "release_date": "1959-12-14",
-        "cover_img": ""
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e0200ace5d3c5bffc123ef1eb51"
     },
     {
         "id": "jazz_2",
-        "title": "So What",
+        "title": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
         "artist": "Miles Davis",
         "album": "Kind of Blue",
         "length": "09:22",
         "release_date": "1959-08-17",
-        "cover_img": ""
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e020ebc17239b6b18ba88cfb8ca"
     },
     {
         "id": "jazz_3",
@@ -24,7 +24,7 @@
         "album": "My Favorite Things",
         "length": "13:42",
         "release_date": "1961-02-01",
-        "cover_img": ""
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02268f559dbc4714939d575d8c"
     },
     {
         "id": "jazz_4",
@@ -33,16 +33,16 @@
         "album": "Somethin' Else",
         "length": "10:55",
         "release_date": "1958-03-09",
-        "cover_img": ""
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e020f81ed1bf84b3585a8492d3d"
     },
     {
         "id": "jazz_5",
-        "title": "Blue Monk",
-        "artist": "Thelonious Monk",
-        "album": "Thelonious Monk Trio",
-        "length": "07:58",
-        "release_date": "1952-10-15",
-        "cover_img": ""
+        "title": "From The Start",
+        "artist": "Laufey",
+        "album": "Bewitched",
+        "length": "02:49",
+        "release_date": "2023-09-08",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e0274c732f8aa0e0ccbb3d17d96"
     },
     {
         "id": "jazz_6",
@@ -51,7 +51,7 @@
         "album": "The Complete RCA Victor Recordings",
         "length": "03:07",
         "release_date": "1946-11-06",
-        "cover_img": ""
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e021222fa92bd754f7ebdf14797"
     },
     {
         "id": "jazz_7",
@@ -60,16 +60,16 @@
         "album": "Empyrean Isles",
         "length": "05:33",
         "release_date": "1964-06-17",
-        "cover_img": ""
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02e9eb91ae8241234cb7aaaa4c"
     },
     {
         "id": "jazz_8",
-        "title": "Fly Me to the Moon",
+        "title": "Fly Me To The Moon (In Other Words)",
         "artist": "Frank Sinatra",
         "album": "It Might as Well Be Swing",
         "length": "02:29",
         "release_date": "1964-10-19",
-        "cover_img": ""
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e025f78751d5c0c49d4c91d24eb"
     },
     {
         "id": "jazz_9",
@@ -78,7 +78,7 @@
         "album": "Heavy Weather",
         "length": "05:57",
         "release_date": "1977-03-15",
-        "cover_img": ""
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02d5e3abdd3cb309fa4c77f7f3"
     },
     {
         "id": "jazz_10",
@@ -87,6 +87,6 @@
         "album": "The Popular Duke Ellington",
         "length": "04:38",
         "release_date": "1966-01-10",
-        "cover_img": ""
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e0297673a1ca66fcc9159d7eacd"
     }
 ]

@@ -55,39 +55,39 @@
     },
     {
         "id":"japan_7",
-        "title":"",
-        "artist":"",
-        "album": "",
-        "length":"",
-        "release_date": "",
-        "cover_img":""
+        "title":"KICK BACK",
+        "artist":"Kenshi Yonezu",
+        "album": "KICK BACK",
+        "length":"03:13",
+        "release_date": "2022-10-12",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e02303d8545fce8302841c39859"
     },
     {
         "id":"japan_8",
-        "title":"",
-        "artist":"",
-        "album": "",
-        "length":"",
-        "release_date": "",
-        "cover_img":""
+        "title":"夜に駆ける",
+        "artist":"YOASOBI",
+        "album": "THE BOOK",
+        "length":"04:18",
+        "release_date": "2021-01-06",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e02684d81c9356531f2a456b1c1"
     },
     {
         "id":"japan_9",
-        "title":"",
-        "artist":"",
-        "album": "",
-        "length":"",
-        "release_date": "",
-        "cover_img":""
+        "title":"YELLOW",
+        "artist":"Yoh kamiyama",
+        "album": "SHIAWASE NA OTONA",
+        "length":"02:58",
+        "release_date": "2019-04-03",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e0269db264c3eaa5cc09962f21c"
     },
     {
         "id":"japan_10",
-        "title":"",
-        "artist":"",
-        "album": "",
-        "length":"",
-        "release_date": "",
-        "cover_img":""
+        "title":"中庭の少女たち",
+        "artist":"SHISHAMO",
+        "album": "SHISHAMO 3",
+        "length":"05:10",
+        "release_date": "2016-03-02",
+        "cover_img":"https://i.scdn.co/image/ab67616d00001e022d8842490db1225f1d3dccc7"
     }
 ]
  

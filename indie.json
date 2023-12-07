@@ -1,0 +1,92 @@
+[
+    {
+        "id": "indie_1",
+        "title": "After Dark",
+        "artist": "Mr.Kitty",
+        "album": "Time",
+        "length": "04:19",
+        "release_date": "2014-10-16",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02b492477206075438e0751176"
+    },
+    {
+        "id": "indie_2",
+        "title": "The Perfect Girl",
+        "artist": "Mareux",
+        "album": "The Perfect Girl",
+        "length": "03:14",
+        "release_date": "2021-12-08",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e023d54a30e59638f60f56dd4e6"
+    },
+    {
+        "id": "indie_3",
+        "title": "Do I Wanna Know?",
+        "artist": "Arctic Monkeys",
+        "album": "AM",
+        "length": "04:32",
+        "release_date": "2013-09-10",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e020b4f0565f8a790f5105aeb1c"
+    },
+    {
+        "id": "indie_4",
+        "title": "2econd 2ight 2eer (that was fun, goodbye.)",
+        "artist": "Will Wood",
+        "album": "The Normal Album",
+        "length": "03:26",
+        "release_date": "2020-07-10",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e0232a57eb1fae94aa3fed0c49b"
+    },
+    {
+        "id": "indie_5",
+        "title": "Sweater Weather",
+        "artist": "The Neighbourhood",
+        "album": "I Love You.",
+        "length": "04:00",
+        "release_date": "2013-04-23",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02c91ed3bc3c8d484f532fab2f"
+    },
+    {
+        "id": "indie_6",
+        "title": "Riptide",
+        "artist": "Vance Joy",
+        "album": "Dream Your Life Away",
+        "length": "03:24",
+        "release_date": "2013-05-21",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02d3ce97395ff522b0d70c1094"
+    },
+    {
+        "id": "indie_7",
+        "title": "Take Me to Church",
+        "artist": "Hozier",
+        "album": "Hozier",
+        "length": "04:01",
+        "release_date": "2013-09-19",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e027a9bf5f82e32d33d4503fe7b"
+    },
+    {
+        "id": "indie_8",
+        "title": "Pumped Up Kicks",
+        "artist": "Foster The People",
+        "album": "Torches",
+        "length": "03:59",
+        "release_date": "2011-05-23",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02121d5f92cf90576907dfb1e5"
+    },
+    {
+        "id": "indie_9",
+        "title": "Freaks",
+        "artist": "Surf Curse",
+        "album": "Freaks",
+        "length": "02:27",
+        "release_date": "2021-05-15",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e029efda673310de265a2c1cf1f"
+    },
+    {
+        "id": "indie_10",
+        "title": "Notion",
+        "artist": "The Rare Ocassions",
+        "album": "Notion",
+        "length": "03:15",
+        "release_date": "2021-12-02",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02598721fc8c9dde3f65a73a08"
+    }
+]

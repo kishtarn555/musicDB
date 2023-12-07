@@ -1,0 +1,92 @@
+[
+    {
+        "id": "electro_1",
+        "title": "Strobe",
+        "artist": "Deadmau5",
+        "album": "For Lack of a Better Name",
+        "length": "10:34",
+        "release_date": "2009-09-22",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02d49d976721f4dc6b3c6225ad"
+    },
+    {
+        "id": "electro_2",
+        "title": "Midnight City",
+        "artist": "M83",
+        "album": "Hurry Up, We're Dreaming",
+        "length": "04:03",
+        "release_date": "2011-10-18",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02b3591763154a27326b3f431a"
+    },
+    {
+        "id": "electro_3",
+        "title": "Ghost Voices",
+        "artist": "Virtual Self",
+        "album": "Virtual Self EP",
+        "length": "03:33",
+        "release_date": "2017-11-29",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e024ba2d15b6e7f470bfd3e424e"
+    },
+    {
+        "id": "electro_4",
+        "title": "The Less I Know The Better",
+        "artist": "Tame Impala",
+        "album": "Currents",
+        "length": "03:36",
+        "release_date": "2015-07-17",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79"
+    },    
+    {
+        "id": "electro_5",
+        "title": "Starry Eyed",
+        "artist": "Ellie Goulding",
+        "album": "Bright Lights",
+        "length": "02:57",
+        "release_date": "2010-02-26",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02512cd44d21eacbfeda4affe2"
+    },
+    {
+        "id": "electro_6",
+        "title": "A Moment Apart",
+        "artist": "ODESZA",
+        "album": "A Moment Apart",
+        "length": "03:55",
+        "release_date": "2017-09-08",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e0245951a69fe39a6e163122eab"
+    },
+    {
+        "id": "electro_12",
+        "title": "Divinity",
+        "artist": "Porter Robinson",
+        "album": "Worlds",
+        "length": "05:01",
+        "release_date": "2014-08-12",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e021f675e7b8bae408653346dd9"
+    },
+    {
+        "id": "electro_8",
+        "title": "Summertime Sadness (Cedric Gervais Remix)",
+        "artist": "Lana Del Rey",
+        "album": "Summertime Sadness Remix EP",
+        "length": "06:56",
+        "release_date": "2013-01-01",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e02f8cdf8e85bc179a475d581ba"
+    },
+    {
+        "id": "electro_9",
+        "title": "Hyperreal ft. Kučka",
+        "artist": "Flume",
+        "album": "Skin",
+        "length": "04:04",
+        "release_date": "2016-05-27",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e022010cde0894e08bb395b7d16"
+    },
+    {
+        "id": "electro_10",
+        "title": "Doin' It Right ft. Panda Bear",
+        "artist": "Daft Punk",
+        "album": "Random Access Memories",
+        "length": "04:11",
+        "release_date": "2013-05-17",
+        "cover_img": "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937"
+    }
+]
